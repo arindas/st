@@ -50,6 +50,7 @@ xrdb merge pathToXresourcesFile
 - anygeometry
 - xresources
 - sync patch ( Better draw timing to reduce flicker/tearing and improve animation smoothness )
+- w3m hack
 - live reload ( change colors/fonts on the fly )
   and more...
   <br>
